@@ -58,7 +58,7 @@ Audio: winsound (Windows only)
 └── README.md
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/your-username/astro-landing-guardian.git
+git clone https://github.com/SaraLarkem/Astro-landing-guardian.git
 cd astro-landing-guardian
 2. Install dependencies
 pip install pandas scikit-learn pyqt5
